@@ -1,6 +1,6 @@
-# Clean Blog Hexo
+# developerXing's Blog 
 
-![](http://www.codeblocq.com/img/hexo-theme-thumbnail/CleanBlog.png)
+![](http://developercorliss.github.io)
 
 Hexo implementation of [Clean Blog](http://blackrockdigital.github.io/startbootstrap-clean-blog/index.html)
 
